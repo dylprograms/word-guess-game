@@ -1,0 +1,12 @@
+_MONGODB_URI='mongodb+srv://UNCC-School:<password>@cluster0.7i2lu.mongodb.net/word-guess'
+
+
+MONGODB_URI='mongodb://127.0.0.1:27017/word-guess'
+
+
+https://word-guess-game-byr9.onrender.com
+
+https://word-guess-game-staging-tqqs.onrender.com
+
+
+feature/cd
